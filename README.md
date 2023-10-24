@@ -8,3 +8,7 @@ Alias Bleach dans le cours de Monsieur Costa.***
 J'ai beaucoup galéré, baucoup de recherche sur youtube et google, l'utilisation de translate a été fortement utilisé. Je connais rien du tout de GITHUB.
 
 >Je suis fan de la culture asiatique. J'ai un petit frère. J'étudie en ce moment à l'Ephec.
+
+>J'ai hâte de voir si je peux faire un rabot radio commandé.
+
+>J'espère que d'ici là mon pc n'a pas explosé.
